@@ -1,3 +1,4 @@
+# Password Generator
 
 This project is a password generator that allows users to create secure passwords based on 
 customizable criteria, such as length, inclusion of numbers, symbols, uppercase, and lowercase 
